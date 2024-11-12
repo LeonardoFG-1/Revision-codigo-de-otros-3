@@ -2,13 +2,13 @@ input {
     width: 500px;
     height: 40px;
     font-size: 18px;
-  }
-  
-  #lista-de-productos {
+}
+
+#lista-de-productos {
     display: flex
-  }
-  
-  .producto {
+}
+
+.producto {
     width: 200px;
     height: 200px;
     margin: 10px;
@@ -16,9 +16,9 @@ input {
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
-  
-  .producto img {
+}
+
+.producto img {
     width: 70%;
     height: auto
-  }
+}
